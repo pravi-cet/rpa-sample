@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="ACME" fileName="Project1.dll" assemblyName="Project1.dll" id="Project-8D6035A73EEF0FC" version="8.0.1090.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="CBF189559B819C2706243A867AD9A0">
+    <Assemblies>
+      <Assembly value="Project1.dll" digest="6E54D492CEDA2520B8E76D7077CDBF" />
+      <Assembly value="Project1.pdb" digest="06D3757335DCE6DB06816CF0668046" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>

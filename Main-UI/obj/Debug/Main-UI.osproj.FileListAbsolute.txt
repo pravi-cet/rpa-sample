@@ -1,0 +1,7 @@
+C:\Users\ravipr\Documents\Visual Studio 2015\Projects\Project1\Main-UI\bin\Debug\RuntimeConfig.xml
+C:\Users\ravipr\Documents\Visual Studio 2015\Projects\Project1\Main-UI\bin\Debug\Main_UI.dll
+C:\Users\ravipr\Documents\Visual Studio 2015\Projects\Project1\Main-UI\bin\Debug\Main_UI.pdb
+C:\Users\ravipr\Documents\Visual Studio 2015\Projects\Project1\Main-UI\obj\Debug\ImportTypeMap.resources
+C:\Users\ravipr\Documents\Visual Studio 2015\Projects\Project1\Main-UI\obj\Debug\Main-UI.osproj.GenerateResource.Cache
+C:\Users\ravipr\Documents\Visual Studio 2015\Projects\Project1\Main-UI\obj\Debug\Main_UI.dll
+C:\Users\ravipr\Documents\Visual Studio 2015\Projects\Project1\Main-UI\obj\Debug\Main_UI.pdb
